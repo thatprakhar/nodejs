@@ -1,5 +1,5 @@
 {
-	"name": "Prakhar Nahar",
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "https://github.com/thatprakhar/nodejs.git"
+	},
+  "author": "Prakhar Nahar"
 }
